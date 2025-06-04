@@ -11,6 +11,8 @@ This repository contains a collection of small, beginner-to-intermediate level P
 
 - 🔢 Number Guessing Game  
 - 🧮 Simple calculator
+- 🔐 Random Password Generator
+- ⏱  CountDown timer/Alarm
 
 ---
 
